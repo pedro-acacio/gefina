@@ -1,20 +1,20 @@
 # gefina
 
-Sistema de gestão de contas a receber.
+Accounts receivable management system.
 
-O Gefina registra os clientes de uma organização e as faturas emitidas contra esses clientes, e apresenta a visão consolidada da situação financeira que desses registros decorre.
+Gefina records an organization's clients and the invoices issued to those clients, and presents the consolidated view of the financial position that results from those records.
 
-## Funcionalidades
+## Features
 
-- Cadastro e manutenção de clientes
-- Emissão e manutenção de faturas
-- Listagens com busca, ordenação e paginação
-- Painel de indicadores consolidados
-- Acesso autenticado e administração de contas
+- Client registration and maintenance
+- Invoice issuing and maintenance
+- Listings with search, sorting and pagination
+- Dashboard of consolidated indicators
+- Authenticated access and account administration
 
-## Fora do escopo
+## Out of scope
 
-- Cadastro público de usuários
-- Recuperação de senha
-- Envio de arquivo de imagem
-- Representação gráfica de séries temporais
+- Public user sign-up
+- Password recovery
+- Image file uploads
+- Graphical representation of time series
